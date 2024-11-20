@@ -7,7 +7,7 @@ import Logo from "../public/assets/logo.svg";
 createRoot(document.getElementById("root")).render(
   <NextUIProvider>
     <div
-      className="text-center text-4xl md:text-5xl   absolute flex  font-bold gap-1 items-center"
+      className="text-center text-4xl md:text-5xl   absolute flex  font-bold gap-1 items-center justify-center"
       style={{ top: "-150px", left: "50%", transform: "translateX(-50%)" }}
     >
       <img src={Logo} alt="" className="w-10 h-10" />

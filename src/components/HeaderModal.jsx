@@ -21,7 +21,7 @@ const HeaderModal = () => {
           onClick={goHome}
           className="self-start text-[#6C727F] font-bold underline hover:text-[#dee0e4] transition-colors"
         >
-          ↩ Return to home
+          Return to home
         </button>
       )}
 
