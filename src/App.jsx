@@ -1,6 +1,6 @@
 import "@fontsource/poppins";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Region from "./pages/Region";
 import Layout from "./pages/Layout";
 import Country from "./pages/Country";
